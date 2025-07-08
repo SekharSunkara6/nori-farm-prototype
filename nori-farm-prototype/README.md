@@ -19,7 +19,7 @@ This project is a **proof-of-concept integration** for XrisP’s Nori Farm platf
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/nori-farm-prototype.git
+   git clone https://github.com/SekharSunkara6/nori-farm-prototype.git
    cd nori-farm-prototype
    ```
 
@@ -71,12 +71,9 @@ This project utilized AI-assisted development tools for scaffolding and code gen
 - Added error handling and UI polish
 
 ## Customization
-
 - To add or update product mappings, edit `src/products.json`.
 - For real API integration, replace the mock fetch logic in `App.jsx` with your preferred API call (e.g., fetch from Shopify or Cafe24).
 
 ## License
-
 This project is for educational and prototyping purposes.
-
 If you need to adjust the repository URL or add screenshots, update the relevant sections. Let me know if you want a version tailored for a specific deployment or with additional sections!
